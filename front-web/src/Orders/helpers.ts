@@ -5,11 +5,11 @@ export function checkIsSelected(selectedProducts: Product[], product: Product) {
 }
 
 export function formatPrice(price: number) {
-  const formatter = new Intl.NumberFormat('pt-BR', {
-      style: 'currency',
-      currency: 'BRL',
-      minimumFractionDigits: 2
+  const formatter = new Intl.NumberFormat("pt-BR", {
+    style: "currency",
+    currency: "BRL",
+    minimumFractionDigits: 2,
   });
 
-  return formatter.format(price)
+  return formatter.format(price);
 }
