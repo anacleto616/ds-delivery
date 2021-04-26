@@ -2,7 +2,7 @@
 
 Projeto desenvolvido na 2ª edição da Semana [DevSuperior](https://devsuperior.com.br/), ocorreu entre os dias 04/01/2021 a 10/01/2021, o DS Delivery é uma aplicação Fullstack Web e Mobile. Aplicação de entrega de pedidos.
 
-## 💻 Funcionalidades
+## 🔩 Funcionalidades
 
 - Listar produtos
 - Selecionar produtos
@@ -18,6 +18,6 @@ Projeto desenvolvido na 2ª edição da Semana [DevSuperior](https://devsuperior
 - React Native
 - PostgreSQL
 
-## 💻 Layout
+## 🖥 Layout
 
 ![](/public/DS-Delivery.gif)
